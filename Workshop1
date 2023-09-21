@@ -1,0 +1,9 @@
+kullanicilar = []
+for i in range(10):
+    
+    kullanici = input ("Lütfen İsim ve Soyisim giriniz.")
+    
+    kullanicilar.append(kullanici)
+print(kullanicilar)
+
+#Gökçem Ateş ile birlikte yapıldı.
