@@ -1,0 +1,1 @@
+# Etiya_Analiz.7
